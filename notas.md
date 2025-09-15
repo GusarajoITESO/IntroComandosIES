@@ -5,7 +5,7 @@
 
 1. mover lineas alt + arriba o abajo 
 2. copiar lienas alt+shitf + arriba 
-3. multiples cursores ctrl+alt+ hacia arriba o abajo 
+3. multiples cursores ctrl+alt+ hacia arriba o abajooo 
 
 
 
